@@ -1,0 +1,23 @@
+#contn {
+    background-color: blanchedalmond;
+}
+#content {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-gap: 20px;
+}
+#hb {
+    color: blueviolet;
+}
+#h3 {
+    color: brown;
+}
+
+#hc {
+    color: deeppink
+}
+
+#h3, #ha, #hb, #hc, #p {
+    margin: 10px;
+    text-align: center;
+}
